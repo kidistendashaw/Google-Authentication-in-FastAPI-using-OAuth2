@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+venv.bak/
+lib64/
+pyvenv.cfg
+activate*
+Activate.ps1
+dotenv
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment variables
+.env
